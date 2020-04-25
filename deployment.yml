@@ -28,6 +28,6 @@ spec:
     spec:
       containers:
         - name: comicbox
-          image: rivethead42/comicbox
+          image: manjunathramreddy/comicbox:latest
           ports:
             - containerPort: 3000
